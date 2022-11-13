@@ -1,4 +1,4 @@
-央视#genre#
+#EXTM3U $BorpasFileFormat="1"
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",CCTV1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
@@ -153,7 +153,7 @@ http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 #EXTINF:-1,央视移动
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
-卫视#流派#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视",湖南卫视
 http://222.175.159.226:808/hls/41/index.m3u8
@@ -534,7 +534,6 @@ http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 #EXTINF:-1,兵团十四师昆玉综合
 http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 
-IPV6,#流派#
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",CCTV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
@@ -3399,7 +3398,6 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227240/index.m3u
 #EXTINF:-1,中国气象
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1&IASHttpS
 
-4K,#流派#
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,纯享4K
 http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?$17M广西
@@ -3452,7 +3450,7 @@ http://219.142.148.47:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1,北京IPTV4K超清
 http://111.13.42.231/PLTV/88888888/224/3221226550/1.m3u8?$19M3840x2160
 
-北京,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,4K超清
 http://111.13.42.231/PLTV/88888888/224/3221226550/1.m3u8
@@ -3477,7 +3475,7 @@ http://111.13.42.242/PLTV/88888888/224/3221226437/1.m3u8?$7M1920x1080
 #EXTINF:-1,北京影视
 http://111.13.42.241/PLTV/88888888/224/3221226486/1.m3u8?$8M1920x1080
 
-江苏,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,南京新闻综合
 http://183.207.248.12/ott.js.chinamobile.com/PLTV/4/224/3221227213/index.m3u8?$8M1920x1080
@@ -3542,7 +3540,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227934/index.m3u8?$1M1920x1080
 #EXTINF:-1,垫播江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8?$720x576
 
-浙江,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -3569,7 +3567,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1,好易购
 http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 
-福建,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,厦门1
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1&$7M福建
@@ -3704,7 +3702,7 @@ http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1,江西陶瓷
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1&$7M福建
 
-广东,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,南国都市
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds&$1920x1080
@@ -3769,7 +3767,6 @@ http://9.zhxinda.xyz/gdtv.php?pk=1187&$1280x720
 #EXTINF:-1,广东国际
 http://9.zhxinda.xyz/gdtv.php?pk=1191&$720x576
 
-港澳台,#genre#
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,天映频道
 http://51.79.82.208:16024
@@ -3840,7 +3837,7 @@ http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1,民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 
-港澳台,#流派#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd$超清1080P
@@ -3945,7 +3942,7 @@ https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m
 #EXTINF:-1,大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
-NewTV,#流派#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,NewTV东北热剧[1920*1080]
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
@@ -4016,7 +4013,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8
 #EXTINF:-1,黑莓电竞[1920*1080]
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
 
-新电视，#genre#
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,超级电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
@@ -4119,7 +4115,7 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225764/index.m3u8
 #EXTINF:-1,黑莓电影
 http://117.169.121.162:6610/PLTV/88888910/224/3221225769/index.m3u8
 
-测试，#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东森电影台" tvg-id="东森电影台" tvg-name="东森电影台",东森电影台
 http://120.84.96.74:808/hls/32/index.m3u8
@@ -4228,7 +4224,7 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1,台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
-港台,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,凤凰中文 高清[1920x1080]
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8?$8M绂忓缓
@@ -4411,7 +4407,7 @@ http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?$1920x1080
 #EXTINF:-1,凤凰中文[1920x1080]
 http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?$1920x1080
 
-月光,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,	金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -4668,7 +4664,7 @@ https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 #EXTINF:-1,牧者频道
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch47-2.m3u8
 
-影视,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,科幻动作经典喜剧
 http://epg.112114.xyz/douyu/4332?$9M斗鱼
@@ -4759,7 +4755,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 #EXTINF:-1,黑莓电影
 http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225764/index.m3u8?$7M江西
 
-IHOT,#流派#
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,爱电竞
 http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
@@ -4786,7 +4781,7 @@ http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemo
 #EXTINF:-1,爱极限
 http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014135734296323&channel-id=wasusyt&Contentid=6000000006000170630
 
-YY,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,YY舞蹈993热舞不断
 http://mmitv.top/pltv/yy.php?id=22490906
@@ -4839,7 +4834,7 @@ http://mmitv.top/pltv/yy.php?id=1354489616
 #EXTINF:-1,江苏泰兴一枝花
 http://mmitv.top/pltv/yy.php?id=1350266408
 
-埋堆,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,七公主驾到
 http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
@@ -4906,7 +4901,7 @@ http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847
 #EXTINF:-1,埋堆堆37
 http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
 
-斗鱼,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,《武侠剧》_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7655471&$1024x768
@@ -5339,8 +5334,6 @@ http://epg.112114.xyz/douyu/85894?$1920x1080
 #EXTINF:-1,喜剧经典
 http://epg.112114.xyz/douyu/9650887?$1920x1080
 
-斗鱼,#流派#
-#EXTM3U
 #EXTINF:-1 ,斗鱼电影HD10
 http://diyp.112114.xyz/douyu/8770422
 #EXTINF:-1 ,斗鱼电影HD11
@@ -5429,7 +5422,6 @@ http://epg.112114.xyz/douyu/1504768
 http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
 
-MV,#流派#
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,热歌辣妹1
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-IS24gUovcix_AI.mp4
@@ -5564,7 +5556,7 @@ http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m
 #EXTINF:-1,News24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 
-DJ,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,斗鱼音乐一FHD
 http://epg.112114.xyz/douyu/9588891
@@ -6099,7 +6091,7 @@ https://vd3.bdstatic.com/mda-kfv7s0d2e3izvez3/v1-cae/sc/mda-kfv7s0d2e3izvez3.mp4
 #EXTINF:-1,翻唱闽南歌曲 感情有靠岸
 https://vd3.bdstatic.com/mda-khqvm1hwdfg1tehr/v1-cae/sc/mda-khqvm1hwdfg1tehr.mp4
 
-劲舞,#genre#
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,Soda东南亚之旅
 https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
