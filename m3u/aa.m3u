@@ -75,6 +75,8 @@ CCTV17,http://222.175.159.226:808/hls/18/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CETV1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 央视移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+
+
 卫视,#genre#
 湖南卫视,http://222.175.159.226:808/hls/41/index.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
@@ -2679,8 +2681,7 @@ YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 神乐影片2,http://epg.112114.xyz/douyu/85894?$1920x1080
 喜剧经典,http://epg.112114.xyz/douyu/9650887?$1920x1080
 
-MV,#流派#
-
+MV,#流派
 热歌辣妹1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-IS24gUovcix_AI.mp4
 热歌辣妹3,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
 热歌辣妹4,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
@@ -2748,8 +2749,7 @@ Music TV,https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 MY3,http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 News24,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 
-斗鱼,#流派#
-
+斗鱼,#流派
 斗鱼电影HD10,http://diyp.112114.xyz/douyu/8770422
 斗鱼电影HD11,http://diyp.112114.xyz/douyu/2436390
 斗鱼电影HD13,http://diyp.112114.xyz/douyu/36337
