@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
+
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://39.134.65.208/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://39.137.49.76:8080/PLTV/88888888/224/3221225624/index.m3u8?
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
+http://119.39.128.12:88/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://112.19.214.90:8883/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
+http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://39.134.66.2/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
+http://39.135.137.205/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://39.134.65.208/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="卫视",北京影视
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://140.207.241.3:8080/live/program/live/tjwshd/4000000/d1.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://live.cooltv.top/tv/yqdtv.php?id=133
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://218.29.135.2:4000/udp/225.1.4.254:1300
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://112.17.40.220/PLTV/88888888/224/3221231885/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://140.207.241.3:8080/live/program/live/gdwshd/4000000/d1.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://113.64.147.183:808/hls/59/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",CNC英语
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",华数TV
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",漫威电影
+https://epg.112114.eu.org/douyu/4282654
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",漫威顺序电影
+https://epg.112114.eu.org/douyu/6140589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",牛叔电影
+https://epg.112114.eu.org/douyu/2758565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",特辑电影
+https://epg.112114.eu.org/douyu/3637778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",贝爷影厅
+https://epg.112114.eu.org/douyu/252802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",贝爷MAX
+https://epg.112114.eu.org/douyu/4332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",星爷影院
+https://epg.112114.eu.org/douyu/122402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",香港赌片
+https://epg.112114.eu.org/douyu/315457
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",经典喜剧
+https://epg.112114.eu.org/douyu/6566671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",港台电影
+https://epg.112114.eu.org/douyu/434971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",豆瓣电影
+https://epg.112114.eu.org/douyu/52787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",豆瓣高分
+https://epg.112114.eu.org/douyu/8770422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",华语经典
+https://epg.112114.eu.org/douyu/85894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",华语影视
+https://epg.112114.eu.org/douyu/3928
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",片荒电影
+https://epg.112114.eu.org/douyu/4258555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",喜剧电影
+https://epg.112114.eu.org/douyu/9292492
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",刘德华
+https://epg.112114.eu.org/douyu/2516864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",武侠电影
+https://epg.112114.eu.org/douyu/6763930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",科幻电影
+https://epg.112114.eu.org/douyu/323876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",欧美电影
+https://epg.112114.eu.org/douyu/1377142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",灾难科幻
+https://epg.112114.eu.org/douyu/263824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",新片放映
+https://epg.112114.eu.org/douyu/10240510
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",大片汇集
+https://epg.112114.eu.org/douyu/1735337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",欧美科幻
+https://epg.112114.eu.org/douyu/315131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",欧美剧集
+https://epg.112114.eu.org/douyu/1409682
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",贝贝影厅
+https://epg.112114.eu.org/douyu/431460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",周末电影
+https://epg.112114.eu.org/douyu/3637726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",周末影院
+https://epg.112114.eu.org/douyu/3637765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",明星电影
+https://epg.112114.eu.org/douyu/122402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",林正英
+https://epg.112114.eu.org/douyu/7356023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",僵尸护体
+https://epg.112114.eu.org/douyu/6906628
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",恐怖电影
+https://epg.112114.eu.org/douyu/96577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",篮球人物传记
+https://epg.112114.eu.org/douyu/8434598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",是七龙珠啊！
+https://epg.112114.eu.org/douyu/10395986
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",华语影视剧
+https://epg.112114.eu.org/douyu/3928
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",古装神剧
+https://epg.112114.eu.org/douyu/338759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",金庸武侠剧
+https://epg.112114.eu.org/douyu/5522351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",铁齿铜牙纪晓岚
+https://epg.112114.eu.org/douyu/9071554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",士兵突击
+https://epg.112114.eu.org/douyu/4396972
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",请回答1988
+https://epg.112114.eu.org/douyu/8600645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",龙门镖局
+https://epg.112114.eu.org/douyu/9650860
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",四大名著
+https://epg.112114.eu.org/douyu/1046540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",新三国
+https://epg.112114.eu.org/douyu/276200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",新水浒传
+https://epg.112114.eu.org/douyu/3758762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",西游记
+https://epg.112114.eu.org/douyu/5472438
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",庆余年
+https://epg.112114.eu.org/douyu/7489563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",少年包青天
+https://epg.112114.eu.org/douyu/6566658
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",李卫当官
+https://epg.112114.eu.org/douyu/7473576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",地下交通队
+https://epg.112114.eu.org/douyu/316089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",家有儿女
+https://epg.112114.eu.org/douyu/6648727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",神探狄仁杰
+https://epg.112114.eu.org/douyu/6027991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",刑事侦缉
+https://epg.112114.eu.org/douyu/138959
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",征服
+https://epg.112114.eu.org/douyu/2726977
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",越狱
+https://epg.112114.eu.org/douyu/7575350
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",权利的游戏
+https://epg.112114.eu.org/douyu/8945323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",哈利波特
+https://epg.112114.eu.org/douyu/8814650
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",猫和老鼠
+https://epg.112114.eu.org/douyu/7888428
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",名侦探柯南
+https://epg.112114.eu.org/douyu/6484910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",孤独的美食家
+https://epg.112114.eu.org/douyu/260322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",running man
+https://epg.112114.eu.org/douyu/131977
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",华语经典老歌
+https://epg.112114.eu.org/douyu/3186217
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",NewTV超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",成龙电影
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",金庸电影
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",古龙作品集
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",周星驰影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",张国荣影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",郭富城影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",刘德华影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",古天乐影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",杨幂影视集
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",刘亦菲影视
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",高分影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",怀旧老片
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",女神经典
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",星光影视
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",高清大片
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CUVA频道
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/712723873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",新片放映厅
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",经典放映厅
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/685902551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",云上电影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",经典贺岁片
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",经典影视速看
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",高能烧脑时刻
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",每日科幻电影
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",热剧联播
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",喜剧联盟
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",暑期剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",黄金剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",军旅剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",少林剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",追剧少女
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",红楼剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625498432
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",爱情公寓
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",套武侠剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",深夜失眠剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",红色谍战剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",综艺现场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640581,
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",萌宠大作战
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",试胆大会
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",盗墓方法论
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",僵尸剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
