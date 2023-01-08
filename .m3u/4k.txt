@@ -1,0 +1,241 @@
+1 UHD 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5004/index.m3u8?$15M3840x2160
+2 UHD 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5005/index.m3u8?$15M3840x2160
+3[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8"?$17M3840x2160
+华数4K[3840*2160],http://111.40.196.30/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt&$15M3840x2160
+苏州4K[3840*2160][3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?$3840x2160
+苏州4K[3840*2160],http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&$3840x2160
+苏州4K[3840*2160],http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&$3840x2160
+苏州4K[3840*2160],http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&$3840x2160
+苏州4K[3840*2160],http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8?$3840x2160
+苏州4K[3840*2160],http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&$3840x2160
+苏州4K[3840*2160],http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.flv?$3840x2160
+苏州4K[3840*2160],http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MFgW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&$3840x2160
+苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top&$3840x2160
+苏州4K[3840*2160],http://1972762459.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=BIkAALgYonIlwd4W&secondToken=secondToken%3AcTyp88QdsudhnnmwHbpfH9Dg7k8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&$3840x2160
+苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?$3840x2160
+苏州4K[3840*2160],http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8?$3840x2160
+苏州4K[3840*2160],http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&&$3840x2160
+苏州4K[3840*2160],http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&&$3840x2160
+苏州4K[3840*2160],http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&&$3840x2160
+苏州4K[3840*2160],http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1&&$3840x2160
+咪咕体育-4K-HLG源-2[3840*2160],http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8?$30M3840x2160
+咪咕体育-4K-HLG源[3840*2160],http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?blog.ntnas.top&$29M3840x2160
+咪咕体育4K[3840*2160],http://39.134.67.168/PLTV/88888888/224/3221225651/index.m3u8?$29M3840x2160
+咪咕4K（移动）[3840*2160],http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8?$30M3840x2160
+咪咕4K[3840*2160],http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?$29M3840x2160
+芒果综艺4K-15M[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1&$15M3840x2160
+芒果娱乐4K[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1&c=福建三明移动&$14M3840x2160
+芒果娱乐4K[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1&$14M3840x2160
+江苏古装4K[7680*4320],http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?$7680x4320
+江苏古装4K[7680*4320],http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.js.chinamobile.com/PLTV/3/224/3221228132/index.m3u8?$7680x4320
+江苏4K修复电影[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?$35M3840x2160
+江苏4K修复电影[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?$35M3840x2160
+江苏4K修复电影[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8?$35M3840x2160
+4K++[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8"?$19M3840x2160
+4K++[3840*2160],http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226352/index.m3u8?$19M3840x2160
+欢笑剧场4K[3840*2160],http://39.134.19.234:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$33M3840x2160
+欢笑剧场4K[3840*2160],http://[2409:8087:7000:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?$11M3840x2160
+欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8?$11M3840x2160
+欢笑剧场4K[3840*2160],http://gslbservmst.bestv.com.cn/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=10&$3840x2160
+欢笑剧场4K[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$26M3840x2160
+欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?blog.ntnas.top&$12M3840x2160
+欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/1.m3u8?$12M3840x2160
+华数4K影院[3840*2160],http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt&$16M3840x2160
+虎牙4K-KPL[3840*2160],http://epg.112114.xyz/huya/11718758?$3840x2160
+河南卫视4K[3840*2160],http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?$3840x2160
+海南4K[3840*2160],http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS&$134M3840x2160
+广西咪咕-4K[3840*2160],http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?vamoschucktv&$29M3840x2160
+11 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/4003/index.m3u8?$11M3840x2160
+12 4K [HEVEC][3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/15145/index.m3u8?$11M3840x2160
+纯享4K频道[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&$17M3840x2160
+纯享4K频道[3840*2160],http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?$17M3840x2160
+纯享4K频道[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8?$17M3840x2160
+纯享-4K18M30HZ[3840*2160],http://39.135.138.59:18890/PLTV/88888888/224/3221225786/2/index.m3u8?$17M3840x2160
+纯享4K-15M[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&$17M3840x2160
+纯享4K[3840*2160][3840*2160],http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K.备用[3840*2160],http://[2409:8087:5c00:10:5::8a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?$17M3840x2160
+纯享4K 20M2160[3840*2160],http://111.40.196.44/0000000000001001/1/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651&$17M3840x2160
+纯享4K 16M2160[3840*2160],http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8?$29M3840x2160
+纯享4K[3840*2160],http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.134.116.30/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.58:18890/ysten-businessmobile/live/HD-20M-2160P-chunxiang4k/1.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.137.49.76:8080/PLTV/88888888/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://117.169.120.221:8080/wh7f454c46tw1485335032_-687149174/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000004000011651&livemode=1&stbId=2&channel-id=ystenlive&$17M3840x2160
+纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://ncyd.jilu8.cn/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.58:18890/PLTV/88888910/224/3221225786/index.m3u8codeyj?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&$17M3840x2160
+纯享4K[3840*2160],http://117.169.121.162:6610/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8?$24M3840x2160
+纯享4K[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?$24M3840x2160
+纯享4K[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?$30M3840x2160
+纯享4K[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8?$29M3840x2160
+纯享4K[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8?blog.ntnas.top&$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8?blog.ntnas.top&$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8?blog.ntnas.top&$17M3840x2160
+纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8?blog.ntnas.top&$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&$17M3840x2160
+纯享4K[3840*2160],http://39.134.116.30/PLTV/88888888/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.134.116.30:8080/PLTV/88888888/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8苏州4K?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8?$30M3840x2160
+纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8?$29M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3800:2020:1000::81d]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&&$17M3840x2160
+纯享4K[3840*2160],http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&&$17M3840x2160
+纯享4K[3840*2160],http://39.134.116.30/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.137.49.76:8080/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8 ?$17M3840x2160
+纯享4K[3840*2160],http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3&$17M3840x2160
+纯享4K[3840*2160],http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8?$17M江西
+纯享4K[3840*2160],http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8?$17M江西
+爱上4K频道[3840*2160],http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$20M3840x2160
+爱上4K.备用[3840*2160],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&$21M3840x2160
+爱上4K 4K超高清[3840*2160],http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8?$20M3840x2160
+爱上4K 32M2160[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$92M3840x2160
+爱上4K 32M2160[3840*2160],http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$20M3840x2160
+爱上4K 20M2160[3840*2160],http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls&$21M3840x2160
+爱上4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8?$19M3840x2160
+爱上4K[3840*2160],http://39.134.19.234:6610/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$20M3840x2160
+爱上4K[3840*2160],http://[2409:8087:1070:301:2026::12]:80/wh7f454c46tw4179594525_1038075197/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/10000100000000060000000000262129_0.smil/01.m3u8?fmt=ts2hls&$21M3840x2160
+爱上4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8?blog.ntnas.top&$20M3840x2160
+爱上4K[3840*2160],http://[2409:8087:1070:301:2026::12]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/1.m3u8?fmt=ts2hls&$22M3840x2160
+爱上4K[3840*2160],http://39.134.18.118/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8?$20M3840x2160
+爱上4K[3840*2160],http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8?$18M3840x2160
+爱上4K[3840*2160],http://39.134.115.221:8080/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+爱上4K[3840*2160],http://[2409:8087:1070:301:2026::12]:80/wh7f454c46tw4179594525_1038075197/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/10000100000000060000000000262129_0.smil/01.m3u8?fmt=ts2hls&&$22M3840x2160
+爱上4K[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&&$19M3840x2160
+爱上4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8?$20M3840x2160
+爱上4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/1.m3u8?$20M3840x2160
+НашеMusic4K[3840*2160],http://iptv.prosto.tv:7000/ch142/video.m3u8?$3840x2160
+YOSSO-4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/16153/index.m3u8?$14M3840x2160
+Vr4K音乐[3840*2160],http://39.134.67.226/PLTV/88888888/224/3221225651/index.m3u8?$30M3840x2160
+VF  4K[3840*2162],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11114/index.m3u8?$10M3840x2160
+VF 4K[3840*2162],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11115/index.m3u8?$10M3840x2160
+Ultra HD Cinema 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/4000/index.m3u8?$11M3840x2160
+SKY HIGH NATURE 4K HDR[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/14248/index.m3u8?$8M3840x2160
+SKY HIGH NATURE 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/14247/index.m3u8?$10M3840x2160
+SKY HIGH MIX 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/17025/index.m3u8?$10M3840x2160
+SiTV欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?blog.ntnas.top&$12M3840x2160
+NASA TV 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/15239/index.m3u8?$13M3840x2160
+MyZen TV 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5002/index.m3u8?$13M3840x2160
+Muzzik Zz 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/16044/index.m3u8?$7M3840x2160
+Love Nature 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5001/index.m3u8?$15M3840x2160
+LIBERTY  4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19307/index.m3u8?$6M3840x2160
+LIBERTY  4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19308/index.m3u8?$5M3840x2160
+LIBERTY  4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19305/index.m3u8?$5M3840x2160
+LIBERTY RUSFILM 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18046/index.m3u8?$3M3840x2160
+LIBERTY NETFLIX 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19402/index.m3u8?$5M3840x2160
+LIBERTY MULTUKR 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18044/index.m3u8?$6M3840x2160
+LIBERTY MULT 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18051/index.m3u8?$4M3840x2160
+LIBERTY KINOUKR 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18045/index.m3u8?$5M3840x2160
+LIBERTY INDI 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18160/index.m3u8?$5M3840x2160
+LIBERTY CUBE 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18161/index.m3u8?$3M3840x2160
+Insight UHD 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5000/index.m3u8?$22M3840x2160
+Fashion4K 10M2160[3840*2160],http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8?$7M3840x2160
+Extasy 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5014/index.m3u8?$12M3840x2160
+Eromania 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/10049/index.m3u8?$19M3840x2160
+DAZN MOVISTAR F1 4K[3840*2160],http://killott.com:8000/34323757547950/2598800912457/236693?$3840x2160
+Clarity4K[3840*2160],https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8?$10M3840x2160
+CCTV4K-MOBAI[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8?$18M3840x2160
+CCTV-4K 超高清[3840*2160],https://p.ggiptv.com/v/4k.m3u8?$25M3840x2160
+CCTV-4K[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&$17M3840x2160
+CCTV-4K[3840*2160],http://live.cooltv.top/tv/cctv4k_backup.php?$3840x2160
+CCTV-4K[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6&$17M3840x2160
+CCTV-16奥林匹克4K[3840*2160],http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?$29M3840x2160
+CCTV164K-HDR[3840*2160],http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls&$29M3840x2160
+CCTV16-4K.备用[3840*2160],http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls&$44M3840x2160
+CCTV16-4K(3)[3840*2160],http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254&$13M3840x2160
+CCTV16-4K(2)[3840*2160],http://111.29.9.35:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254&$13M3840x2160
+CCTV16-4K[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&c=福建三明移动&$24M3840x2160
+CCTV16-4K[3840*2160],http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3&$13M3840x2160
+CCTV-16 奥林匹克 4K超高清[3840*2160],http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227162/index.m3u8?$25M3840x2160
+CCTV16 4K-25M[3840*2160],http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&$25M3840x2160
+CCTV16 4K[3840*2160],http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8?$3840x2160
+BOX Relax 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19283/index.m3u8?$12M3840x2160
+BOX Music 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19282/index.m3u8?$11M3840x2160
+BCU Ultra 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11045/index.m3u8?$11M3840x2160
+BCU Premiere Ultra 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/15023/index.m3u8?$16M3840x2160
+BCU Kids 4K[3840*2160],http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/17023/index.m3u8?$5M3840x2160
+4K影院20M2160[3840*2160],http://111.40.196.44/0000000000001001/1/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748&$16M3840x2160
+4K影视2[3840*2160],http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8?$18M3840x2160
+4K影视1[3840*2160],http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&$16M3840x2160
+4K咪咕[3840*2160][3840*2160],http://39.134.65.208/PLTV/88888888/224/3221225651/index.m3u8?$29M3840x2160
+4K咪咕[3840*2160],http://39.134.65.142/PLTV/88888888/224/3221225651/index.m3u8?$29M3840x2160
+4K咪咕[3840*2160],http://39.134.65.141/PLTV/88888888/224/3221225651/index.m3u8?$29M3840x2160
+4K电影[3840*2160],http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&$60M3840x2160
+4K电影[3840*2160],http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&$21M3840x2160
+4K电影[3840*2160],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&$21M3840x2160
+4K电影[3840*2160],http://[2409:8087:1070:301:2026::26]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls&$22M3840x2160
+4KUHD IPV6[3840*2160],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8?blog.ntnas.top&$17M3840x2160
+4KUHD IPV6[3840*2160],http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?blog.ntnas.top&$17M3840x2160
+4KUHD IPV6[3840*2160],http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?blog.ntnas.top&$17M3840x2160
+4KUHD IPV6[3840*2160],http://[2409:8087:5c00:10:5::8a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?blog.ntnas.top&$17M3840x2160
+4KUHD IPV6[3840*2160],http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8?blog.ntnas.top&$30M3840x2160
+4KUHD 4K超高清[3840*2160],http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226825/index.m3u8?$17M3840x2160
+4K[3840*2160][3840*2160],http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&$17M3840x2160
+4K UHD[3840*2160],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8?fmt=ts2hls&$17M3840x2160
+4K[3840*2160],http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8?$29M3840x2160
+1MV4K[3840*2160],http://136.243.42.146:1499?$3840x2160
+$4K欢笑剧场4k[3840*2160],http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?$12M3840x2160
+
+= 超时源 =
+
+= 未分组 =
+江苏广电-4K宣传,http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11688&Fsv_otype=0&Provider_id=&Pcontent_id=?$3840x2160
+欢笑剧场4K,http://111.40.196.44/0000000000001001/1/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001&$12M3840x2160
+欢笑剧场4K,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8?$12M3840x2160
+欢笑剧场4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8?$12M3840x2160
+欢笑剧场4K,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=10&$3840x2160
+欢笑剧场4K,http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3&$11M3840x2160
+斗鱼4K,http://epg.112114.xyz/douyu/9249162?$25M3840x2160
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8?blog.ntnas.top&$17M3840x2160
+纯享4K,http://39.134.115.221:8080/PLTV/88888910/224/3221225786/index.m3u8?$17M3840x2160
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8 ?$17M3840x2160
+11,http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11684&Fsv_otype=0&Provider_id=&Pcontent_id=
+北京IPTV4K超清,http://219.142.148.47:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0&$20M3840x2160
+北京IPTV4K超清,http://219.142.147.211:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0&$3840x2160
+爱上4K频道,http://[2409:8087:1070:301:2026::12]:80/wh7f454c46tw4179594525_1038075197/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/10000100000000060000000000262129_0.smil/01.m3u8?fmt=ts2hls&$22M3840x2160
+爱上4K频道,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&$58M3840x2160
+爱上4K频道,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&$21M3840x2160
+爱上4K,http://39.134.24.166/PLTV/88888888/224/3221226005/index.m3u8?$20M3840x2160
+爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&&&$62M3840x2160
+爱上4K,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&&&$21M3840x2160
+爱上4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&&&$61M3840x2160
+爱上4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS&&&$21M3840x2160
+Русский Экстрим UHD 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5003/index.m3u8?$19M3840x2160
+VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?$3840x2160
+LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?$3840x2160
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME&$3840x2160
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=&$3840x2160
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?$9M3840x2160
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?blog.ntnas.top&$12M3840x2160
+Home 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/4002/index.m3u8?$9M3840x2160
+Fireplace 4K,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?$3840x2160
+Fireplace 4K,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app&$3840x2160
+Fireplace 4K,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT&$3840x2160
+Clarity 4K(备),https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?$3840x2160
+Clarity 4K (2160p),https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?$3840x2160
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8?$3840x2160
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=&$3840x2160
+CCTV4K,http://v2.91kds.cn/b9/gzyx2.m3u8?id=cctv4k&auth=rinimabi
+CCTV-16 奥林匹克4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k&$3840x2160
+4K影院,http://diyp.112114.xyz/douyu/9249162?$25M3840x2160
+4K影视2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8?blog.ntnas.top&$20M3840x2160
+4K-TEST,https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8?$1M3840x2160
+4K UHD,http://183.207.249.35/PLTV/3/224/3221227506/index.m3u8
+Clarity 4K (216,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?blog.ntnas.top&$3840x2160
