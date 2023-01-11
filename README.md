@@ -1,4 +1,4 @@
-| 国内 | 香港 | 台湾 | EPG |配置|
+| 国内 | 香港 | 台湾 | EPG | 配置 |
 
 
 
@@ -33,7 +33,7 @@ https://epg.112114.xyz/pp.xml.gz
 
 Bing每日图片 https://epg.112114.xyz/bingimg
 
-​
+
 
 
 HK 
@@ -42,9 +42,9 @@ HK
 https://epg.pw/xmltv/epg_HK.xml
 
 https://epg.pw/xmltv/epg_HK.xml.gz
-​
 
-​
+
+
 TW 
 
 https://epg.pw/xmltv/epg_TW.xml
