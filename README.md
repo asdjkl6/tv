@@ -1,5 +1,7 @@
-国内 | 香港 | 台湾 | EPG |配置
-3
+国内 | 香港 | 台湾 | EPG |配置|
+
+
+
 "提供EPG的频道列表，每日与EPG同步更新
 
 ​
@@ -55,5 +57,3 @@ https://epg.pw/xmltv/epg_TW.xml
 ​
 
 https://epg.pw/xmltv/epg_TW.xml.gz
-
-
