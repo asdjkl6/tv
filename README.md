@@ -1,5 +1,4 @@
 # tv
-自用资源，转载说明出处,点击链接加入群聊【simple TV电视】本群拒绝QQ等级30以下人员进群，吱吱歪歪的不要进入：https://jq.qq.com/?_wv=1027&amp;k=ctzEe9Mn
 国内 | 香港 | 台湾 | EPG |配置
 "提供EPG的频道列表，每日与EPG同步更新
 
@@ -11,3 +10,21 @@
 
 DIYP接口：http://epg.51zmt.top:8000/api/diyp/ ，使用tvg-name匹配"
  http://epg.51zmt.top:8000/#:~:text=%E6%8F%90%E4%BE%9BEPG,name%E5%8C%B9%E9%85%8D
+佛系维护,完全免费,无任何广告,数据仅供个人学习使用,禁止任何形式的商业用途!
+Diyp & 百川点击选择程序接口：https://epg.112114.xyz/status		
+超级直播	https://epg.112114.xyz/epginfo
+Xml格式	https://epg.112114.xyz/pp.xml
+https://epg.112114.xyz/pp.xml.gz
+Bing每日图片	https://epg.112114.xyz/bingimg
+
+HK	
+https://epg.pw/xmltv/epg_HK.xml
+
+https://epg.pw/xmltv/epg_HK.xml.gz
+
+
+TW	
+https://epg.pw/xmltv/epg_TW.xml
+
+https://epg.pw/xmltv/epg_TW.xml.gz
+
