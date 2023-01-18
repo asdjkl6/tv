@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 ,湖南卫视
+http://110.81.206.138:50080/tsfile/live/1022_1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://110.81.206.138:50080/tsfile/live/1023_1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://110.81.206.138:50080/tsfile/live/1031_1.m3u8
+#EXTINF:-1 ,北京卫视
+http://110.81.206.138:50080/tsfile/live/1017_1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://110.81.206.138:50080/tsfile/live/1035_1.m3u8
+#EXTINF:-1 ,东方卫视
+http://110.81.206.138:50080/tsfile/live/1018_1.m3u8
+#EXTINF:-1 ,东南卫视
+http://110.81.206.138:50080/tsfile/live/1038_1.m3u8
+#EXTINF:-1 ,广东卫视
+http://110.81.206.138:50080/tsfile/live/1020_1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://110.81.206.138:50080/tsfile/live/1030_1.m3u8
+#EXTINF:-1 ,海峡卫视
+http://110.81.206.138:50080/tsfile/live/1045_1.m3u8
+#EXTINF:-1 ,河北卫视
+http://110.81.206.138:50080/tsfile/live/1026_1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://110.81.206.138:50080/tsfile/live/1029_1.m3u8
+#EXTINF:-1 ,湖北卫视
+http://110.81.206.138:50080/tsfile/live/1028_1.m3u8
+#EXTINF:-1 ,山东卫视
+http://110.81.206.138:50080/tsfile/live/1027_1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://110.81.206.138:50080/tsfile/live/1021_1.m3u8
+#EXTINF:-1 ,四川卫视
+http://110.81.206.138:50080/tsfile/live/1032_1.m3u8
+#EXTINF:-1 ,天津卫视
+http://110.81.206.138:50080/tsfile/live/1019_1.m3u8
+#EXTINF:-1 ,云南卫视
+http://110.81.206.138:50080/tsfile/live/1036_1.m3u8
+#EXTINF:-1 ,山西卫视
+http://183.185.173.145:8085/udp/226.0.1.85:2001
+#EXTINF:-1 ,广西卫视
+http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 ,云南卫视
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+#EXTINF:-1 ,甘肃卫视
+http://117.157.25.180:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,甘肃卫视
+http://xstartx.com:4000/rtp/239.93.0.81:5140
+#EXTINF:-1 ,海南卫视
+http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000004000006211&livemode=1&stbId=10&channel-id=bestzb
+#EXTINF:-1 ,青海卫视
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R622FED72U319A204BK783FE086IC0841C75P2BF4M35E8673V0Z339C9W16DC6A07EDEFF7E9&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000111
