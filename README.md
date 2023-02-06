@@ -5,17 +5,17 @@
 
 "提供EPG的频道列表，每日与EPG同步更新
 
-[节目总表地址]http://epg.51zmt.top:8000/e.xml   测试用节目表，点击此处下载（仅提供节目表，不提供节目源）
+[节目总表地址] (http://epg.51zmt.top:8000/e.xml）   测试用节目表，点击此处下载（仅提供节目表，不提供节目源）
 
-[央视及各省卫视]http://epg.51zmt.top:8000/cc.xml 
+[央视及各省卫视]（http://epg.51zmt.top:8000/cc.xml）
 
- [地方及数字付费]http://epg.51zmt.top:8000/difang.xml
+ [地方及数字付费]（http://epg.51zmt.top:8000/difang.xml）
 
-[DIYP接口]http://epg.51zmt.top:8000/api/diyp/ 
+[DIYP接口]（http://epg.51zmt.top:8000/api/diyp/）
 
 
 
-[使用tvg-name匹配]http://epg.51zmt.top:8000/#:~:text=%E6%8F%90%E4%BE%9BEPG,name%E5%8C%B9%E9%85%8D
+[使用tvg-name匹配]（http://epg.51zmt.top:8000/#:~:text=%E6%8F%90%E4%BE%9BEPG,name%E5%8C%B9%E9%85%8D）
 
 
 
@@ -23,15 +23,15 @@
 
 佛系维护,完全免费,无任何广告,数据仅供个人学习使用,禁止任何形式的商业用途!
 
-[Diyp & 百川点击选择程序接]https://epg.112114.xyz/status  
+[Diyp & 百川点击选择程序接]（https://epg.112114.xyz/status）  
 
-[超级直播]https://epg.112114.xyz/epginfo
+[超级直播]（https://epg.112114.xyz/epginfo）
 
-[Xml格式] https://epg.112114.xyz/pp.xml
+[Xml格式] （https://epg.112114.xyz/pp.xml）
 
-[xml]https://epg.112114.xyz/pp.xml.gz
+[xml] （https://epg.112114.xyz/pp.xml.gz）
 
-[Bing每日图片] https://epg.112114.xyz/bingimg
+[Bing每日图片] （https://epg.112114.xyz/bingimg）
 
 
 
@@ -39,14 +39,14 @@
 HK 
 
 
-[hk]https://epg.pw/xmltv/epg_HK.xml
+[hk] （https://epg.pw/xmltv/epg_HK.xml）
 
-[hk]https://epg.pw/xmltv/epg_HK.xml.gz
+[hk] （https://epg.pw/xmltv/epg_HK.xml.gz）
 
 
 
 TW 
 
-[tw]https://epg.pw/xmltv/epg_TW.xml
+[tw] （https://epg.pw/xmltv/epg_TW.xml）
 
-[tw]https://epg.pw/xmltv/epg_TW.xml.gz
+[tw] （https://epg.pw/xmltv/epg_TW.xml.gz）
