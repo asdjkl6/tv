@@ -13,45 +13,62 @@
 
 提供EPG的频道列表，每日与EPG同步更新
 
-- [节目总表地址](http://epg.51zmt.top:8000/e.xml）
+- [节目总表地址](http://epg.51zmt.top:8000/e.xml)
 
-- [央视及各省卫视](http://epg.51zmt.top:8000/cc.xml）
-
- - [地方及数字付费](http://epg.51zmt.top:8000/difang.xml）
-
-- [DIYP接口](http://epg.51zmt.top:8000/api/diyp/）
+- [央视及各省卫视](http://epg.51zmt.top:8000/cc.xml)
 
 
-- [使用tvg-name匹配](http://epg.51zmt.top:8000/#:~:text=%E6%8F%90%E4%BE%9BEPG,name%E5%8C%B9%E9%85%8D）
+ - [地方及数字付费](http://epg.51zmt.top:8000/difang.xml)
 
 
-- [Diyp & 百川点击选择程序接](https://epg.112114.xyz/status）  
 
-- [超级直播](https://epg.112114.xyz/epginfo）
+- [DIYP接口](http://epg.51zmt.top:8000/api/diyp/)
 
-- [Xml格式](https://epg.112114.xyz/pp.xml）
 
-- [xml](https://epg.112114.xyz/pp.xml.gz）
 
-- [Bing每日图片](https://epg.112114.xyz/bingimg）
 
+- [使用tvg-name匹配](http://epg.51zmt.top:8000/#:~:text=%E6%8F%90%E4%BE%9BEPG,name%E5%8C%B9%E9%85%8D)
+
+
+- [Diyp & 百川点击选择程序接](https://epg.112114.xyz/status)
+  
+
+- [超级直播](https://epg.112114.xyz/epginfo)
+
+
+- [Xml格式](https://epg.112114.xyz/pp.xml)
+
+
+
+- [xml](https://epg.112114.xyz/pp.xml.gz)
+
+
+
+- [Bing每日图片](https://epg.112114.xyz/bingimg)
 
 
 
 HK 
 
 
-- [HK](https://epg.pw/xmltv/epg_HK.xml）
+- [HK](https://epg.pw/xmltv/epg_HK.xml)
 
-- [HK](https://epg.pw/xmltv/epg_HK.xml.gz）
+
+
+- [HK](https://epg.pw/xmltv/epg_HK.xml.gz)
+
+
 
 
 
 TW 
 
-- [TW](https://epg.pw/xmltv/epg_TW.xml）
+- [TW](https://epg.pw/xmltv/epg_TW.xml)
 
-- [TW](https://epg.pw/xmltv/epg_TW.xml.gz）
+
+
+- [TW](https://epg.pw/xmltv/epg_TW.xml.gz)
+
 
 
 
