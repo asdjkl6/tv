@@ -26,7 +26,7 @@
 
 中国EPG节目
 
--[EPG节目预告66个](https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml)
+- [EPG节目预告66个](https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml)
 
 - [电视超级网站节目预告47个](https://iptv-org.github.io/epg/guides/zh/mytvsuper.com.xml)
 
@@ -98,5 +98,4 @@ TW
 - [🇭🇰香港.m3u](https://iptv-org.github.io/iptv/countries/hk.m3u)
 - [🇲🇴澳门.m3u](https://iptv-org.github.io/iptv/countries/mo.m3u)
 - [🇹🇼台湾.m3u](https://iptv-org.github.io/iptv/countries/tw.m3u)
-
 
