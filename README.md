@@ -21,11 +21,24 @@
  - [地方及数字付费](http://epg.51zmt.top:8000/difang.xml)
 
 
-
 - [DIYP接口](http://epg.51zmt.top:8000/api/diyp/)
 
 
+中国EPG节目
 
+-[EPG节目预告66个](https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml)
+
+- [电视超级网站节目预告47个](https://iptv-org.github.io/epg/guides/zh/mytvsuper.com.xml)
+
+- [nowplayer节目预告115个](https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml)
+
+- [香港节目预告4个](https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml)
+
+- [新加坡电信节目预告22个](https://iptv-org.github.io/epg/guides/zh/singtel.com.xml)
+
+- [央视网节目预告94个](https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml)
+
+112114EPG节目
 
 - [使用tvg-name匹配](http://epg.51zmt.top:8000/#:~:text=%E6%8F%90%E4%BE%9BEPG,name%E5%8C%B9%E9%85%8D)
 
@@ -79,6 +92,11 @@ TW
 - [除成人内容以外的已知频道.m3u](https://iptv-org.github.io/iptv/index.m3u)
 - [包括完整内容所有已知频道.m3u](https://iptv-org.github.io/iptv/index.nsfw.m3u)
 
-直播源：
-- [国内电视台直播源.m3u8](/国内电视台2023.m3u8) - ()
+直播源
+
+- [国内电视台直播源.m3u](https://iptv-org.github.io/iptv/languages/zho.m3u)
+- [🇭🇰香港.m3u](https://iptv-org.github.io/iptv/countries/hk.m3u)
+- [🇲🇴澳门.m3u](https://iptv-org.github.io/iptv/countries/mo.m3u)
+- [🇹🇼台湾.m3u](https://iptv-org.github.io/iptv/countries/tw.m3u)
+
 
