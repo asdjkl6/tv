@@ -11,7 +11,7 @@
 
 
 
-提供EPG的频道列表，每日与EPG同步更新
+提供EPGepg.51zmt的频道列表，每日与EPG同步更新
 
 - [节目总表地址](http://epg.51zmt.top:8000/e.xml)
 
@@ -81,8 +81,6 @@ TW
 
 
 - [TW](https://epg.pw/xmltv/epg_TW.xml.gz)
-
-
 
 
 
