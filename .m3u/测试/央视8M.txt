@@ -1,0 +1,36 @@
+8M,#genre#
+CCTV1 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv1hd8m/8000000
+CCTV2 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv2hd8m/8000000
+CCTV3 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv3hd8m/8000000
+CCTV4 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv4hd8m/8000000
+CCTV5 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv5hd8m/8000000
+CCTV6 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv6hd8m/8000000
+CCTV7 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv7hd8m/8000000
+CCTV8 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv8hd8m/8000000
+CCTV9 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv9hd8m/8000000
+CCTV10 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv10hd8m/8000000
+CCTV11 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv11hd8m/8000000
+CCTV12 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv12hd8m/8000000
+CCTV13 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv13hd8m/8000000
+CCTV14 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv14hd8m/8000000
+CCTV15 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv15hd8m/8000000
+CCTV16 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv16hd8m/8000000
+CCTV17 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv17hd8m/8000000
+
+CCTV1 8M,http://119.39.128.18:88/hls/1/index.m3u8
+CCTV2 8M,http://119.39.128.18:88/hls/2/index.m3u8
+CCTV3 8M,http://119.39.128.18:88/hls/3/index.m3u8
+CCTV4 8M,http://119.39.128.18:88/hls/4/index.m3u8
+CCTV5 8M,http://119.39.128.18:88/hls/5/index.m3u8
+CCTV6 8M,http://119.39.128.18:88/hls/6/index.m3u8
+CCTV7 8M,http://119.39.128.18:88/hls/7/index.m3u8
+CCTV8 8M,http://119.39.128.18:88/hls/8/index.m3u8
+CCTV9 8M,http://119.39.128.18:88/hls/9/index.m3u8
+CCTV10 8M,http://119.39.128.18:88/hls/10/index.m3u8
+CCTV11 8M,http://119.39.128.18:88/hls/11/index.m3u8
+CCTV12 8M,http://119.39.128.18:88/hls/12/index.m3u8
+CCTV13 8M,http://119.39.128.18:88/hls/13/index.m3u8
+CCTV14 8M,http://119.39.128.18:88/hls/14/index.m3u8
+CCTV15 8M,http://119.39.128.18:88/hls/15/index.m3u8
+CCTV16 8M,http://119.39.128.18:88/hls/16/index.m3u8
+CCTV17 8M,http://119.39.128.18:88/hls/17/index.m3u8
