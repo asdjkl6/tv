@@ -1,33 +1,5 @@
-#EXTM3U
+
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml,https://epg.112114.xyz/pp.xml
-#EXTINF:-1,tvg-id="斗鱼歌舞" tvg-name="斗鱼歌舞" tvg-logo="https://epg.112114.xyz/logo/斗鱼歌舞.png" group-title="五一快乐",斗鱼歌舞
-http://epg.112114.xyz/douyu/591657
-#EXTINF:-1,tvg-id="斗鱼歌舞" tvg-name="斗鱼歌舞" tvg-logo="https://epg.112114.xyz/logo/斗鱼歌舞.png" group-title="五一快乐",斗鱼歌舞
-http://epg.112114.xyz/douyu/5278299
-#EXTINF:-1,tvg-id="斗鱼歌舞" tvg-name="斗鱼歌舞" tvg-logo="https://epg.112114.xyz/logo/斗鱼歌舞.png" group-title="五一快乐",斗鱼歌舞
-http://epg.112114.xyz/douyu/170426
-#EXTINF:-1,tvg-id="斗鱼歌舞" tvg-name="斗鱼歌舞" tvg-logo="https://epg.112114.xyz/logo/斗鱼歌舞.png" group-title="五一快乐",斗鱼歌舞
-http://epg.112114.xyz/douyu/92000
-#EXTINF:-1,tvg-id="斗鱼歌舞" tvg-name="斗鱼歌舞" tvg-logo="https://epg.112114.xyz/logo/斗鱼歌舞.png" group-title="五一快乐",斗鱼歌舞
-http://epg.112114.xyz/douyu/5772555
-#EXTINF:-1,tvg-id="斗鱼歌舞" tvg-name="斗鱼歌舞" tvg-logo="https://epg.112114.xyz/logo/斗鱼歌舞.png" group-title="五一快乐",斗鱼歌舞
-http://epg.112114.xyz/douyu/6129898
-#EXTINF:-1,tvg-id="斗鱼歌舞" tvg-name="斗鱼歌舞" tvg-logo="https://epg.112114.xyz/logo/斗鱼歌舞.png" group-title="五一快乐",斗鱼歌舞
-http://epg.112114.xyz/douyu/9837104
-#EXTINF:-1,tvg-id="斗鱼歌舞" tvg-name="斗鱼歌舞" tvg-logo="https://epg.112114.xyz/logo/斗鱼歌舞.png" group-title="五一快乐",斗鱼歌舞
-http://epg.112114.xyz/douyu/3763915
-#EXTINF:-1,tvg-id="斗鱼综艺" tvg-name="斗鱼综艺" tvg-logo="https://epg.112114.xyz/logo/斗鱼综艺.png" group-title="五一快乐",斗鱼综艺
-http://epg.112114.xyz/douyu/9236042
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="五一快乐",斗鱼MTV
-http://epg.112114.xyz/douyu/5635000
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="五一快乐",斗鱼MTV
-http://epg.112114.xyz/douyu/9586235
-#EXTINF:-1,tvg-id="斗鱼音乐MV频道" tvg-name="斗鱼音乐MV频道" tvg-logo="https://epg.112114.xyz/logo/斗鱼音乐MV.png" group-title="五一快乐",斗鱼音乐MV频道
-http://mayi-tv.ml/douyu.php?id=3870925
-#EXTINF:-1,tvg-id="斗鱼点歌台" tvg-name="斗鱼点歌台" tvg-logo="https://epg.112114.xyz/logo/斗鱼点歌台.png" group-title="五一快乐",斗鱼点歌台
-http://tvmvip110.club/douyu.php?id=3870925
-#EXTINF:-1,tvg-id="斗鱼-华语点歌台" tvg-name="斗鱼-华语点歌台" tvg-logo="https://epg.112114.xyz/logo/斗鱼华语点歌台.png" group-title="五一快乐",斗鱼-华语点歌台
-http://epg.112114.xyz/douyu/3186217
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视稳定",CCTV-1
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226223/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视稳定",CCTV-1
