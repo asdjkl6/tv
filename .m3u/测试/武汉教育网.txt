@@ -1,0 +1,52 @@
+武汉教育网,#genre#
+CCTV-1 综合 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000210103.m3u8
+CCTV-2 财经 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000203603.m3u8
+CCTV-3 综艺 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000203803.m3u8
+CCTV-4 中文国际 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204803.m3u8
+CCTV-5 体育 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000205103.m3u8
+CCTV-7 国防军事 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000510003.m3u8
+CCTV-8 电视剧 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000203903.m3u8
+CCTV-9 纪录 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000499403.m3u8
+CCTV-10 科教 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000203503.m3u8
+CCTV-11 戏曲 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204103.m3u8
+CCTV-12 社会与法 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000202603.m3u8
+CCTV-13 新闻 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204603.m3u8
+CCTV-15 音乐 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000205003.m3u8
+CCTV-14 少儿 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204403.m3u8
+CCTV-16 奥林匹克 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012375003.m3u8
+CCTV-17 农业农村 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204203.m3u8
+
+CCTV-怀旧剧场 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012511203.m3u8
+CCTV-风云剧场 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513603.m3u8
+CCTV-风云足球 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012514203.m3u8
+CCTV-兵器科技 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513403.m3u8
+CCTV-央视台球 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513703.m3u8
+CCTV-电视指南 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012514003.m3u8
+CCTV-高尔夫･网球 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012512503.m3u8
+
+广东卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000292703.m3u8
+广西卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000294203.m3u8
+四川卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000295003.m3u8
+贵州卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000293303.m3u8
+河北卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000293403.m3u8
+河南卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000296103.m3u8
+辽宁卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000281303.m3u8
+安徽卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000298003.m3u8
+山东卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000294803.m3u8
+湖北卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000294503.m3u8
+湖南卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000296203.m3u8
+浙江卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000295503.m3u8
+东方卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000292403.m3u8
+海南卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000291503.m3u8
+北京卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000272103.m3u8
+重庆卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000297803.m3u8
+深圳卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000292203.m3u8
+江苏卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000295603.m3u8
+江西卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000294103.m3u8
+黑龙江卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000293903.m3u8
+CGTN-英语 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2001656803.m3u8
+CGTN-西语 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2010152503.m3u8
+CGTN-法语 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2010153503.m3u8
+CGTN-阿语 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2010155203.m3u8
+CGTN-俄语 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2010152603.m3u8
+CGTN-纪录 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2010155403.m3u8
