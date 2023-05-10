@@ -1,18 +1,3 @@
-五一快乐,#genre#
-斗鱼歌舞,http://epg.112114.xyz/douyu/591657
-斗鱼歌舞,http://epg.112114.xyz/douyu/5278299
-斗鱼歌舞,http://epg.112114.xyz/douyu/170426
-斗鱼歌舞,http://epg.112114.xyz/douyu/92000
-斗鱼歌舞,http://epg.112114.xyz/douyu/5772555
-斗鱼歌舞,http://epg.112114.xyz/douyu/6129898
-斗鱼歌舞,http://epg.112114.xyz/douyu/9837104
-斗鱼歌舞,http://epg.112114.xyz/douyu/3763915
-斗鱼综艺,http://epg.112114.xyz/douyu/9236042
-斗鱼MTV,http://epg.112114.xyz/douyu/5635000
-斗鱼MTV,http://epg.112114.xyz/douyu/9586235
-斗鱼音乐MV频道,http://mayi-tv.ml/douyu.php?id=3870925
-斗鱼点歌台,http://tvmvip110.club/douyu.php?id=3870925
-斗鱼-华语点歌台,http://epg.112114.xyz/douyu/3186217
 
 央视稳定,#genre#
 CCTV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226223/index.m3u8
