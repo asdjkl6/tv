@@ -1,5 +1,7 @@
 #EXTINF:-1,tvg-id="最近直播源要大更新近期暂停等稳定再更新" tvg-name="最近直播源要大更新近期暂停等稳定再更新" tvg-logo="https://epg.112114.xyz/logo/最近直播源要大更新近期暂停等稳定再更新.png" group-title="最近直播源要大更新近期暂停等稳定再更新",最近直播源要大更新近期暂停等稳定再更新
-http://epg.112114.xyz/douyu/9588891#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+http://epg.112114.xyz/douyu/9588891
+
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
