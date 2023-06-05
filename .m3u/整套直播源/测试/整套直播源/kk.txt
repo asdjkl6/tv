@@ -191,7 +191,6 @@ NewTV怡伴健康 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673
 爱奇谈专区,http://op.nicker.top:5022/udp/239.93.4.238:8722
 爱科幻专区,http://op.nicker.top:5022/udp/239.93.4.226:8568
 爱院线专区,http://op.nicker.top:5022/udp/239.93.4.227:8572
-都市剧场,http://op.nicker.top:5022/udp/239.93.4.245:8788
 爱谍战专区,http://op.nicker.top:5022/udp/239.93.4.230:8596
 爱经典专区,http://op.nicker.top:5022/udp/239.93.4.229:8592
 爱悬疑专区,http://op.nicker.top:5022/udp/239.93.4.228:8576
