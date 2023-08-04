@@ -2,9 +2,9 @@
 
 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。
 
-没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源, 本人只折腾直播源，业余爱好，免费订阅不喜勿加.点击链接加入群聊
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源, 本人只折腾直播源，业余爱好，免费订阅不喜勿加.
 
-- [学习吧](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-q7PtkzMii8r-lHTmr0iRKffr3Ecf6fM&authKey=hkt3HW6YD9aI7hln2%2FlyhlFxPUwYX%2B%2B8kPpVhOZ49o872FRBolYep%2FdkPyYQDMus&noverify=0&group_code=734337408)
+- [学习吧](http://qm.qq.com/)
 
 
 | 国内 | 香港 | 台湾 | EPG | 配置 |
