@@ -1,10 +1,8 @@
-本人只折腾直播源,复刻和转仓说明出处，请勿商用.😀😀😀😀
+本人只折腾直播源,复刻和转仓说明出处，请勿商用.😀😀😀😀,喜欢我的请收藏加个★★💟🥰💟🙏🤝👍★★
 
 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。
 
 没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源, 本人只折腾直播源，业余爱好，免费订阅不喜勿加.
-
-- [学习吧](http://qm.qq.com/)
 
 
 | 国内 | 香港 | 台湾 | EPG | 配置 |
@@ -95,18 +93,25 @@ TW
 - [🇲🇴澳门.m3u](https://iptv-org.github.io/iptv/countries/mo.m3u)
 - [🇹🇼台湾.m3u](https://iptv-org.github.io/iptv/countries/tw.m3u)
 
-本人魔改大佬的diyp内置5线
-
-- [密码.c5pn](https://wwx.lanzout.com/iwjYA13zdb4d)
 
 本仓库直播源订阅地址自己复制一下可以食用：
 
-1.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.m3u
+随缘更新.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.m3u
 
-2.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.m3u8
+随缘更新.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.m3u8
 
-3.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
+随缘更新.https://raw.fgit.cf/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.m3u8
 
-4.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
+随缘更新.https://raw.fgit.cf/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.m3u
 
+正常维护.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
 
+正常维护.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
+
+正常维护.https://agit.ai/sew/m/raw/branch/master/kk.txt
+
+正常维护.https://agit.ai/sew/m/raw/branch/master/l.txt
+
+正常维护.https://raw.fgit.cf/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
+
+正常维护.https://raw.fgit.cf/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
