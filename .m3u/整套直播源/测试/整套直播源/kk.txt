@@ -474,7 +474,6 @@ IHOT爱娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600013
 IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 🇨🇳  轮播,#genre#
-
 虎牙电影1,http://epg.112114.xyz/huya/11336719
 虎牙电影2,http://epg.112114.xyz/huya/11352963
 虎牙电影3,http://epg.112114.xyz/huya/11601986
@@ -683,71 +682,39 @@ CCTV8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/in
 百视通,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001149/1.m3u8
 
 🇨🇳 测试,#genre#
-凤凰中文台,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰香港台,http://php.17186.eu.org/phtv/fhxg.m3u8
-凤凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰资讯台,http://107.151.203.111:2209/135/hk.php?id=fhzx
-凤凰资讯台,http://kkwk1122.top/fh.php?id=fhzx
-凤凰中文台,http://kkwk1122.top/fh.php?id=fhzw
-凤凰香港台,http://kkwk1122.top/fh.php?id=fhhk
+凤凰香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰中文台,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤 凰 资 讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+亚洲旅游,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+无线新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
+TVB星河台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+TVB-J1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+TVB-1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
+TVB-E,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
+TVB DRAMA,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
+TVB JADE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
+TVBS亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571185&extension=ts
 凤凰中文台,http://r.jdshipin.com/cCCzW
 凤凰资讯台,http://r.jdshipin.com/0Rp07
-翡 翠 台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡 翠 台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
-翡 翠 台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡 翠 台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
 翡 翠 台,http://r.jdshipin.com/n90gt
-翡 翠 台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 翡 翠 台,http://r.jdshipin.com/62WM7
 翡 翠 台,http://r.jdshipin.com/qClQf
-翡 翠 台,http://113.117.74.12:8081/hls/25/index.m3u8
-翡 翠 台,http://66.181.39.224/ml.php?id=jade_twn
-翡 翠 台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-明 珠 台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
-明 珠 台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
-明 珠 台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
-明 珠 台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
-明 珠 台,http://113.117.74.12:8081/hls/26/index.m3u8
-明 珠 台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
-J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
-J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
-星空卫视,http://113.117.74.12:8081/hls/87/index.m3u8
-ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131
-ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=30032
-ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131
-ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
-ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
-ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132 
-澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
-澳门莲花,http://epg.112114.xyz/lotus
-澳门莲花,http://live.cooltv.top/tv/lotus.php
-东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-龙翔时代,http://107.151.203.111:2209/135/hk.php?id=lxsdt
-凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
-凤凰资讯,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh8j_GmtUJ5BN3xDXu7C_X54/m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-翡翠台,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh1-JaZ8OwyTRmtfkvBKgd7A/m3u8
-翡翠台,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzKGbsu0OGdyYxLnjEL7oRc/m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
 翡翠台,http://r.jdshipin.com/qClQf
 J2,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh_ddnpfOEkvYpVdhZ_69NYM/m3u8
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 明珠台,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhyOHBkNL9hIHr5S8goRB5Wc/m3u8
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
 明珠台,http://r.jdshipin.com/ZQ4kN
 澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
 蓮花衛視,http://anren.live/HK/BiIOU11uLA.m3u8
 无线财经资讯台,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhx1ckaOdmqDzGKRJOWooemo/m3u8
 无线财经资讯台,http://r.jdshipin.com/jUx8K
