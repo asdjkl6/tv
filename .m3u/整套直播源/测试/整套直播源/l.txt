@@ -41,8 +41,6 @@ CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLT
 🇨🇳 4K测试,#genre#
 4K测试,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/1.m3u8
 4K测试,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221228141/1.m3u8
-河南4K,#genre#
-河南4K试验,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 
 🇨🇳 央视稳定,#genre#
 CCTV1,http://hms3651nc3747353874.live.aikan.miguvideo.com/wh7f454c46tw2139345549_858675105/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=15261211743&Channel_ID=0119_04102000-99000_400300000040002&client_ip=183.192.15.70&timestamp=20231214145710&ContentId=265183188&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=577&zjClientId=0f3381f4-d114-4450-a96c-1f839cefe950&mtv_session=3dd71afd8d3b0cf5a85bdd780b06e639&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=155f8966bab950a4bfa24902c496c2ac
