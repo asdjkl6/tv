@@ -4,6 +4,89 @@
 支持加❤💖,https://vd3.bdstatic.com/mda-qa5d1zkcickda6aw/sc/cae_h264/1704534794085160904/mda-qa5d1zkcickda6aw.mp4
 支持加♥💝,https://vd3.bdstatic.com/mda-qa80bwsgbwia092b/sc/cae_h264/1704963212675705497/mda-qa80bwsgbwia092b.mp4
 
+🇨🇳 央卫,#genre#
+CCTV-1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+CCTV-2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
+CCTV-3,https://live3.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+CCTV-4,https://live3.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
+CCTV-5,https://live3.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+CCTV-5+,https://live3.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+CCTV-6,https://live3.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+CCTV-7,https://live3.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
+CCTV-8,https://live3.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
+CCTV-9,https://live3.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
+CCTV-10,https://live3.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
+CCTV-11,https://live3.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
+CCTV-12,https://live3.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
+CCTV-13,https://live3.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+CCTV-14,https://live3.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
+CCTV-15,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
+CCTV-16,https://live3.rxip.sc96655.com/live/CCTV-16_4000.m3u8
+CCTV-16 4K,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
+CCTV-17 ,https://live3.rxip.sc96655.com/live/CCTV-17_4000.m3u8
+CCTV-4K 超高清,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+
+安徽 卫视,https://live3.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+北京 卫视,https://live3.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+兵团 卫视,https://live3.rxip.sc96655.com/live/btws_4000.m3u8
+重庆 卫视,https://live3.rxip.sc96655.com/live/cqwsH265_4000.m3u8
+东方 卫视,https://live3.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+东南 卫视,https://live3.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
+甘肃 卫视,https://live3.rxip.sc96655.com/live/gsws_4000.m3u8
+广东 卫视,https://live3.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+广西 卫视,https://live3.rxip.sc96655.com/live/gxws_4000.m3u8
+贵州 卫视,https://live3.rxip.sc96655.com/live/gzwsH265_4000.m3u8
+海南 卫视,https://live3.rxip.sc96655.com/live/hnws_4000.m3u8
+河南 卫视,https://live3.rxip.sc96655.com/live/hnws35_4000.m3u8
+黑龙江 卫视,https://live3.rxip.sc96655.com/live/hljwsH265_4000.m3u8
+湖北 卫视,https://live3.rxip.sc96655.com/live/hbwsH265_4000.m3u8
+湖南 卫视,https://live3.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+吉林 卫视,https://live3.rxip.sc96655.com/live/jlwsH265_4000.m3u8
+江苏 卫视,https://live3.rxip.sc96655.com/live/jswsH265_4000.m3u8
+江西 卫视,https://live3.rxip.sc96655.com/live/jxwsH265_4000.m3u8
+辽宁 卫视,https://live3.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
+内蒙古 卫视,https://live3.rxip.sc96655.com/live/nmgws_4000.m3u8
+山东 卫视,https://live3.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+山西 卫视,https://live3.rxip.sc96655.com/live/sxws42_4000.m3u8
+陕西 卫视,https://live3.rxip.sc96655.com/live/sxws_4000.m3u8
+深圳 卫视,https://live3.rxip.sc96655.com/live/szwsH265_4000.m3u8
+天津 卫视,https://live3.rxip.sc96655.com/live/tjwsH265_4000.m3u8
+西藏 卫视,https://live3.rxip.sc96655.com/live/xzwsH264_2000.m3u8
+云南 卫视,https://live3.rxip.sc96655.com/live/ynws_4000.m3u8
+浙江 卫视,https://live3.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+CETV-1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
+CETV-4,https://live3.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
+欢笑 剧场,https://live3.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
+动作 电影,https://live3.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+高清 电影,https://live3.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+家庭 影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+动漫 秀场,https://live3.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
+都市 剧场,https://live3.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
+法治 天地,https://live3.rxip.sc96655.com/live/fztx_4000.m3u8
+纪实 科教,https://live3.rxip.sc96655.com/live/bjjs_2000.m3u8
+嘉佳 卡通,https://live3.rxip.sc96655.com/live/jjkt_2000.m3u8
+家庭 理财,https://live3.rxip.sc96655.com/live/jtlc_4000.m3u8
+金鹰 纪实,https://live3.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8
+金鹰 卡通,https://live3.rxip.sc96655.com/live/jykt_2000.m3u8
+劲爆 体育,https://live3.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
+卡酷 少儿,https://live3.rxip.sc96655.com/live/kkkt_4000.m3u8
+乐 游,https://live3.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
+梨园 频道,https://live3.rxip.sc96655.com/live/ly_4000.m3u8
+魅力 足球,https://live3.rxip.sc96655.com/live/mlyy_4000.m3u8
+七彩 戏剧,https://live3.rxip.sc96655.com/live/qcxj_2000.m3u8
+摄影 频道,https://live3.rxip.sc96655.com/live/sy_4000.m3u8
+生活 时尚,https://live3.rxip.sc96655.com/live/shssH265_4000.m3u8
+四海 钓鱼,https://live3.rxip.sc96655.com/live/shdy_4000.m3u8
+天元 围棋,https://live3.rxip.sc96655.com/live/tywq_2000.m3u8
+武术 世界,https://live3.rxip.sc96655.com/live/wssj_4000.m3u8
+先锋 乒羽,https://live3.rxip.sc96655.com/live/xfpy_4000.m3u8
+新 视觉,https://live3.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
+证劵 服务,https://live3.rxip.sc96655.com/live/jz_2000.m3u8
+中国 天气,https://live3.rxip.sc96655.com/live/zgqx_4000.m3u8
+发现 之旅,https://live3.rxip.sc96655.com/live/fxzl_2000.m3u8
+老 故事,https://live3.rxip.sc96655.com/live/lgs_2000.m3u8
+中 学生,https://live3.rxip.sc96655.com/live/zxs_4000.m3u8
+
 🇨🇳 央视,#genre#,https://epg.erw.cc/api/diyp
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
@@ -407,62 +490,51 @@ CCTV16_4K,http://nas.jdshipin.com:8801/bst.php?id=cctv164k
 BESTV台,http://nas.jdshipin.com:8801/bst.php?id=hyyy8m/8000000
 
 🇨🇳 测试2,#genre#
-CCTV1,http://182.32.204.113:9901/tsfile/live/0001_1.m3u8
-CCTV2,http://182.32.204.113:9901/tsfile/live/0002_1.m3u8
-CCTV3,http://182.32.204.113:9901/tsfile/live/0003_1.m3u8
-CCTV4,http://182.32.204.113:9901/tsfile/live/0004_1.m3u8
-CCTV5,http://182.32.204.113:9901/tsfile/live/0005_1.m3u8
-CCTV5+,http://182.32.204.113:9901/tsfile/live/1072_1.m3u8
-CCTV6,http://182.32.204.113:9901/tsfile/live/0006_1.m3u8
-CCTV7,http://182.32.204.113:9901/tsfile/live/0007_1.m3u8
-CCTV8,http://182.32.204.113:9901/tsfile/live/0008_1.m3u8
-CCTV9,http://182.32.204.113:9901/tsfile/live/0009_1.m3u8
-CCTV10,http://182.32.204.113:9901/tsfile/live/0010_1.m3u8
-CCTV11,http://182.32.204.113:9901/tsfile/live/0011_1.m3u8
-CCTV12,http://182.32.204.113:9901/tsfile/live/0012_1.m3u8
-CCTV13,http://182.32.204.113:9901/tsfile/live/0013_1.m3u8
-CCTV14,http://182.32.204.113:9901/tsfile/live/0014_1.m3u8
-CCTV15,http://182.32.204.113:9901/tsfile/live/0015_1.m3u8
-CCTV16,http://182.32.204.113:9901/tsfile/live/1007_1.m3u8
-CCTV17,http://182.32.204.113:9901/tsfile/live/1066_1.m3u8
-CHC高清电影,http://182.32.204.113:9901/tsfile/live/1005_1.m3u8
-CHC家庭影院,http://182.32.204.113:9901/tsfile/live/1090_1.m3u8
-CHC动作电影,http://182.32.204.113:9901/tsfile/live/1114_1.m3u8
-河南卫视,http://182.32.204.113:9901/tsfile/live/1042_1.m3u8
-山东卫视,http://182.32.204.113:9901/tsfile/live/1070_1.m3u8
-文化旅游,http://182.32.204.113:9901/tsfile/live/1001_1.m3u8
-湖南卫视,http://182.32.204.113:9901/tsfile/live/0128_1.m3u8
-江苏卫视,http://182.32.204.113:9901/tsfile/live/0127_1.m3u8
-浙江卫视,http://182.32.204.113:9901/tsfile/live/1076_1.m3u8
-北京卫视,http://182.32.204.113:9901/tsfile/live/0122_1.m3u8
-安徽卫视,http://182.32.204.113:9901/tsfile/live/0130_1.m3u8
-湖北卫视,http://182.32.204.113:9901/tsfile/live/0132_1.m3u8
-天津卫视,http://182.32.204.113:9901/tsfile/live/0135_1.m3u8
-广东卫视,http://182.32.204.113:9901/tsfile/live/0125_1.m3u8
-深圳卫视,http://182.32.204.113:9901/tsfile/live/0126_1.m3u8
-辽宁卫视,http://182.32.204.113:9901/tsfile/live/0121_1.m3u8
-黑龙江卫视,http://182.32.204.113:9901/tsfile/live/0143_1.m3u8
-东方卫视,http://182.32.204.113:9901/tsfile/live/1030_1.m3u8
-旅游卫视,http://182.32.204.113:9901/tsfile/live/1033_1.m3u8
-重庆卫视,http://182.32.204.113:9901/tsfile/live/1036_1.m3u8
-广西卫视,http://182.32.204.113:9901/tsfile/live/1038_1.m3u8
-东南卫视,http://182.32.204.113:9901/tsfile/live/1039_1.m3u8
-云南卫视,http://182.32.204.113:9901/tsfile/live/1040_1.m3u8
-河北卫视,http://182.32.204.113:9901/tsfile/live/1041_1.m3u8
-吉林卫视,http://182.32.204.113:9901/tsfile/live/1044_1.m3u8
-山西卫视,http://182.32.204.113:9901/tsfile/live/1046_1.m3u8
-陕西卫视,http://182.32.204.113:9901/tsfile/live/1047_1.m3u8
-四川卫视,http://182.32.204.113:9901/tsfile/live/1048_1.m3u8
-贵州卫视,http://182.32.204.113:9901/tsfile/live/1049_1.m3u8
-甘肃卫视,http://182.32.204.113:9901/tsfile/live/1050_1.m3u8
-宁夏卫视,http://182.32.204.113:9901/tsfile/live/1051_1.m3u8
-青海卫视,http://182.32.204.113:9901/tsfile/live/1052_1.m3u8
-西藏卫视,http://182.32.204.113:9901/tsfile/live/1053_1.m3u8
-兵团卫视,http://182.32.204.113:9901/tsfile/live/1054_1.m3u8
-内蒙古卫视,http://182.32.204.113:9901/tsfile/live/1055_1.m3u8
-新疆卫视,http://182.32.204.113:9901/tsfile/live/1057_1.m3u8
-三沙卫视,http://182.32.204.113:9901/tsfile/live/1107_1.m3u8
-农林卫视,http://182.32.204.113:9901/tsfile/live/1064_1.m3u8
+CCTV1,http://58.210.168.86:10800/newlive/live/hls/1/live.m3u8
+CCTV2,http://58.210.168.86:10800/newlive/live/hls/2/live.m3u8
+CCTV3,http://58.210.168.86:10800/newlive/live/hls/3/live.m3u8
+CCTV4,http://58.210.168.86:10800/newlive/live/hls/4/live.m3u8
+CCTV5,http://58.210.168.86:10800/newlive/live/hls/5/live.m3u8
+CCTV6,http://58.210.168.86:10800/newlive/live/hls/6/live.m3u8
+CCTV7,http://58.210.168.86:10800/newlive/live/hls/7/live.m3u8
+CCTV8,http://58.210.168.86:10800/newlive/live/hls/8/live.m3u8
+CCTV10,http://58.210.168.86:10800/newlive/live/hls/9/live.m3u8
+CCTV11,http://58.210.168.86:10800/newlive/live/hls/10/live.m3u8
+CCTV12,http://58.210.168.86:10800/newlive/live/hls/11/live.m3u8
+CCTV13,http://58.210.168.86:10800/newlive/live/hls/12/live.m3u8
+CCTV14,http://58.210.168.86:10800/newlive/live/hls/13/live.m3u8
+CCTV15,http://58.210.168.86:10800/newlive/live/hls/14/live.m3u8
+CCTV17,http://58.210.168.86:10800/newlive/live/hls/16/live.m3u8
+CGTN,http://58.210.168.86:10800/newlive/live/hls/15/live.m3u8
+CGTN,http://60.188.45.178:8888/newlive/live/hls/18/live.m3u8
+深圳卫视,http://jh.d7g.cn/sztv.php?id=szws
+深圳卫视,http://58.210.168.86:10800/newlive/live/hls/26/live.m3u8
+江苏卫视,http://58.210.168.86:10800/newlive/live/hls/17/live.m3u8
+深圳卫视,http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv
+深圳卫视,http://58.210.168.86:10800/newlive/live/hls/26/live.m3u8
+湖南卫视,http://58.210.168.86:10800/newlive/live/hls/21/live.m3u8
+湖南卫视,http://58.210.168.86:10800/newlive/live/hls/21/live.m3u8
+江苏卫视,http://58.210.168.86:10800/newlive/live/hls/17/live.m3u8
+东方卫视,http://58.210.168.86:10800/newlive/live/hls/18/live.m3u8
+浙江卫视,http://58.210.168.86:10800/newlive/live/hls/20/live.m3u8
+北京卫视,http://58.210.168.86:10800/newlive/live/hls/19/live.m3u8
+重庆卫视,http://58.210.168.86:10800/newlive/live/hls/29/live.m3u8
+广东卫视,http://58.210.168.86:10800/newlive/live/hls/25/live.m3u8
+广西卫视,http://58.210.168.86:10800/newlive/live/hls/27/live.m3u8
+安徽卫视,http://58.210.168.86:10800/newlive/live/hls/23/live.m3u8
+天津卫视,http://58.210.168.86:10800/newlive/live/hls/33/live.m3u8
+江西卫视,http://58.210.168.86:10800/newlive/live/hls/34/live.m3u8
+湖北卫视,http://58.210.168.86:10800/newlive/live/hls/35/live.m3u8
+海南卫视,http://58.210.168.86:10800/newlive/live/hls/28/live.m3u8
+贵州卫视,http://58.210.168.86:10800/newlive/live/hls/39/live.m3u8
+四川卫视,http://58.210.168.86:10800/newlive/live/hls/30/live.m3u8
+河南卫视,http://58.210.168.86:10800/newlive/live/hls/31/live.m3u8
+山东卫视,http://58.210.168.86:10800/newlive/live/hls/24/live.m3u8
+山西卫视,http://58.210.168.86:10800/newlive/live/hls/38/live.m3u8
+青海卫视,http://58.210.168.86:10800/newlive/live/hls/40/live.m3u8
+吉林卫视,http://58.210.168.86:10800/newlive/live/hls/36/live.m3u8
+辽宁卫视,http://58.210.168.86:10800/newlive/live/hls/22/live.m3u8
+黑龙江卫视,http://58.210.168.86:10800/newlive/live/hls/37/live.m3u8
 
 🇨🇳 测试3,#genre#
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192
