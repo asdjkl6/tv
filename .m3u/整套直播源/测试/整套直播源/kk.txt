@@ -1,5 +1,5 @@
 🇨🇳 喜欢,#genre#
-龙年大吉,https://jihulab.com/zx_/n/-/raw/main/%E9%BE%99%E5%B9%B4%E5%A4%A7%E5%90%89.mp4
+龙年大吉☆🌠,https://github.moeyy.xyz/https://raw.githubusercontent.com/asdjkl66/uu/main/t/%E9%BE%99%E5%B9%B4%E5%A4%A7%E5%90%89.mp4#https://jsdelivr.b-cdn.net/gh/asdjkl66/uu@main/t/%E9%BE%99%E5%B9%B4%E5%A4%A7%E5%90%89.mp4#https://gcore.jsdelivr.net/gh/asdjkl66/uu@main/t/%E9%BE%99%E5%B9%B4%E5%A4%A7%E5%90%89.mp4
 支持加☆🌠,http://epg.112114.xyz/douyu/9588891
 支持加❤💖,https://vd3.bdstatic.com/mda-qa5d1zkcickda6aw/sc/cae_h264/1704534794085160904/mda-qa5d1zkcickda6aw.mp4
 支持加♥💝,https://vd3.bdstatic.com/mda-qa80bwsgbwia092b/sc/cae_h264/1704963212675705497/mda-qa80bwsgbwia092b.mp4
@@ -642,20 +642,72 @@ ViuTV2,http://141.95.85.201:6666/livehttpplay?channel_id=20132&fbl=
 采昌频道,http://141.95.85.201:6666/livehttpplay?channel_id=20141&fbl=
 
 🇨🇳 测试2,#genre#
-美女蹦迪A,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cm3b1abc77uamm37cjd0&ratio=720p&line=0
-美女蹦迪B,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cmapnk3c77u6oa1qd3u0&ratio=720p&line=0
-美女蹦迪,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ckofal3c77ufoh2mbni0&ratio=720p&line=0
-美女蹦迪0,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000claacs3c77u8feoa0hf0&ratio=720p&line=0
-美女蹦迪1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ck862fjc77uahikf29pg&ratio=720p&line=0
-美女蹦迪2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cklhg63c77u0oo98nb80&ratio=720p&line=0
-美女蹦迪3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ckn4up3c77u9rhthlsn0&ratio=720p&line=0
-美女蹦迪4,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cl3aqrrc77u5e3qc1qt0&ratio=720p&line=0
-美女蹦迪5,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cl7t5sjc77uf9b83du60&ratio=720p&line=0
-美女蹦迪6,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ckurl5rc77u5rlhbjfl0&ratio=720p&line=0
-美女蹦迪7,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cl8nk93c77u1l1r8u8t0&ratio=720p&line=0
-美女蹦迪8,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cldv9ajc77ue5q5skr20&ratio=720p&line=0
-美女蹦迪9,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clfui8bc77u3lknr5ft0&ratio=720p&line=0
-美女蹦迪10,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clj8udrc77u5110f1sb0&ratio=720p&line=0
+天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+天映頻道,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+东森yoyo,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156403
+东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森超视34.5 标清,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森财经,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156396
+东森美洲,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156397
+东森卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156394
+东森戏剧,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156395
+东森中国台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156393
+凤凰美洲,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156408
+凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
+凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
+华视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156391
+华夏电视台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156422
+美国城市卫星,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156401
+民视新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156389
+三立国际台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156390
+台视新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156398
+台视综合,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156392
+天下卫视1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156399
+天下卫视2,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156400
+天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571182
+天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683110
+天映频道,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=941618
+天映频道,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683142
+卫视电影台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=941625
+小太阳,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571230
+新时代电视1台(东),http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90350
+新时代电视1台(西),http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90351
+新时代电视2台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90352
+星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
+长城精品,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156409
+长城精品2,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156410
+中天亚洲台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571212
+TVBS新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571188
+TVBS亚洲,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153507
+TVBS亚洲,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156402
+台视,http://60.248.77.83/sat/tv071.flv
+中视,http://60.248.77.83/sat/tv091.flv
+民视,http://60.248.77.83/sat/tv051.flv
+华视,http://60.248.77.83/sat/tv111.flv
+TVBS新闻,http://60.248.77.83/sat/tv551.flv
+TVBS欢乐,http://60.248.77.83/sat/tv421.flv
+东森财经,http://60.248.77.83/sat/tv571.flv
+纬来日本,http://60.248.77.83/sat/tv771.flv
+纬来育乐,http://60.248.77.83/sat/tv701.flv
+纬来体育,http://60.248.77.83/sat/tv721.flv
+纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
+ELEVEN1,http://60.248.77.83/sat/tv731.flv
+ELEVEN2,http://60.248.77.83/sat/tv741.flv
+MOMO综合,http://60.248.77.83/sat/tv761.flv
+大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+
+🇨🇳 体育,#genre#
+緯來體育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
+咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
 
 🇨🇳 测试3,#genre#
 CCTV1HD,http://jiaojirentv.top/2020/migu.php?id=cctv1
